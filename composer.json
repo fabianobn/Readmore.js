@@ -1,6 +1,7 @@
 {
     "name": "fabianobn/readmore.js",
-    "description": "This is the ReadmoreJS",
-    "version": "v2.2.*"
+    "author": "jedfoster",
+    "description": "This is the Readmore.JS",
+    "version": "v2.2.2"
 }
 
